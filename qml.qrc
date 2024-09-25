@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UI/BottomBar/BottomBar.qml</file>
+        <file>UI/RightScreen/RightScreen.qml</file>
+        <file>UI/LeftScreen/LeftScreen.qml</file>
+        <file>UI/Asserts/lock.png</file>
+        <file>UI/Asserts/unlock.png</file>
+        <file>UI/Asserts/user.png</file>
+        <file>UI/RightScreen/NavigationSearchBox.qml</file>
+        <file>UI/Asserts/search.png</file>
+        <file>UI/Asserts/transport.png</file>
+        <file>UI/BottomBar/HVACComponent.qml</file>
+        <file>UI/Asserts/car.png</file>
+        <file>UI/Asserts/car_model.PNG</file>
+        <file>UI/Asserts/high_volume.png</file>
+        <file>UI/Asserts/low_volume.png</file>
+        <file>UI/Asserts/mute.png</file>
+        <file>UI/BottomBar/VolumeControlComponent.qml</file>
+        <file>UI/Asserts/mobile.png</file>
+        <file>UI/Asserts/schedule.png</file>
+        <file>UI/Asserts/voice.png</file>
+        <file>UI/Asserts/youtube.png</file>
+        <file>UI/RightScreen/YouTubeScreen.qml</file>
+        <file>UI/RightScreen/CallScreen.qml</file>
+        <file>UI/Asserts/call.PNG</file>
+        <file>UI/Asserts/google-maps.png</file>
+        <file>UI/Asserts/spotify.png</file>
+        <file>UI/Asserts/spotify_menu.PNG</file>
+        <file>UI/RightScreen/MusicScreen.qml</file>
+        <file>UI/LeftScreen/CarSettings.qml</file>
+        <file>UI/Asserts/back.png</file>
+        <file>UI/Asserts/sun_roof.png</file>
+        <file>UI/Asserts/traction.png</file>
+        <file>UI/Asserts/car (2).png</file>
+        <file>UI/Asserts/background.PNG</file>
+    </qresource>
+</RCC>
